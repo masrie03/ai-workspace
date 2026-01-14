@@ -1,36 +1,3 @@
-# Linear Regression
-
-# Primary Function
-To model the relationship between variables to predict a continuous, numerical output
-
-## What it is
-Linear Regression models the relationship between:
-- Input feature X
-- Output value y
-
-Using the equation:
-y = wX + b
-
-## Goal
-Find w (weight) and b (bias) that minimize prediction error.
-
-## Loss Function
-Mean Squared Error (MSE):
-Average of squared differences between actual and predicted values.
-
-## When to use
-- Predicting prices
-- Trend estimation
-- Continuous outputs
-
-# Linear_regression_basic
-That is a very good question, and it is exactly the **right way** to approach ML.
-Before touching code, you must understand **intent** and **components**.
-
-I will explain this **conceptually**, without code first.
-
----
-
 ## 1. What Are We Trying to Achieve?
 
 ### High-level goal
